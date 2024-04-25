@@ -30,8 +30,7 @@ python ANPR.py
 ```
 
 ### Results
-
-
+https://github.com/ThanhTayts/Automatic_Number_Plate_Recognition_With_YOLOv9_And_EasyOCR/assets/92384494/d0f915b6-0c15-4e0f-86d8-46bc2d5044cf
 
 ### References
 - https://github.com/thangnch/MiAI_DeepSORT_Yolov9
